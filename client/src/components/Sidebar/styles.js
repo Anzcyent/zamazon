@@ -1,0 +1,2 @@
+export const not_active_style = "flex items-center tracking-wider font-bold cursor-pointer hover:opacity-80 active:scale-95 lg:text-lg lg:border p-3 hover:bg-indigo-700 hover:text-white border-indigo-100 shadow-lg hover:shadow-indigo-100";
+export const active_style = "flex items-center tracking-wider font-bold cursor-pointer hover:opacity-80 active:scale-95 lg:text-lg lg:border p-3 bg-indigo-700 text-white hover:bg-indigo-700 hover:text-white border-indigo-100 shadow-lg hover:shadow-indigo-100";

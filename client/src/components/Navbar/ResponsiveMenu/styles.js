@@ -1,0 +1,2 @@
+export const not_active_style = "flex items-center border-1 rounded my-3 active:font-bold";
+export const active_style = "flex items-center border-1 rounded text-indigo-600 font-bold underline decoration-2 active:font-bold";

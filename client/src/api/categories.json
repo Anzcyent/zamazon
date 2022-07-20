@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "_id": "1",
+            "name": "Gaming"
+        },
+        {
+            "_id": "2",
+            "name": "Medicine"
+        },
+        {
+            "_id": "3",
+            "name": "Cosmetics"
+        },
+        {
+            "_id": "4",
+            "name": "Electronics"
+        },
+        {
+            "_id": "5",
+            "name": "Medicine"
+        },
+        {
+            "_id": "6",
+            "name": "Pets"
+        },
+        {
+            "_id": "7",
+            "name": "Clothing"
+        },
+        {
+            "_id": "8",
+            "name": "Kitchen"
+        },
+        {
+            "_id": "9",
+            "name": "Sport"
+        },
+        {
+            "_id": "10",
+            "name": "Books"
+        }
+    ]
+}

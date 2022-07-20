@@ -1,0 +1,2 @@
+export const not_active_style = "m-5 border p-3 rounded shadow-md cursor-pointer hover:bg-black hover:text-white active:scale-95 active:bg-indigo-500 duration-300";
+export const active_style = "m-5 border p-3 rounded shadow-md cursor-pointer hover:bg-black text-white active:scale-95 active:bg-indigo-500 duration-300 bg-indigo-500"
